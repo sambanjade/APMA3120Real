@@ -1,1 +1,1 @@
-# APMA3120Real
+# APMA3120 Notes formatted through overleaf uploaded PDF document
